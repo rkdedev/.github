@@ -1,16 +1,23 @@
 # SwagSite Swag Websites
-Hello, we're a small team of developers making websites.
+Hello, we're a small team of developers making websites. 
 
-# Pricing:
-**$15.00 USD up front or $0.00 with ads**
-**$5.00 USD/year after first year for hosting**
-**$0.00, using your own domain -> email us**
+## Plans:
+### Pro Plan
+```
+L $10.00/yr 
+L 7 days a week assistance
+L 15 page updates a week
+L "Early Supporter" badge
+```
+### Free Plan
+```
+L $0.00/yr
+L 5 days a week assistance
+L Page updates limited to 4/wk
+L ADs on your page (we gotta make money somehow)
+```
 
-# Legal stuffs:
-**YOU KEEP YOUR NAME AND STUFF** we do not require you to hand
-over your rights to your name, assets or images.
-
-# Ads:
+## Ads:
 **Ads are provided by Google ADsense**
 all ad data is processed by google and is never seen
 by us.
